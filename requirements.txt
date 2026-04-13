@@ -1,3 +1,4 @@
+# CloudMart API dependencies
 fastapi
 uvicorn[standard]
 azure-cosmos
