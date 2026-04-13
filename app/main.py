@@ -1,3 +1,4 @@
+# CloudMart API - FastAPI backend with Azure Cosmos DB
 import os
 import uuid
 from datetime import datetime, timezone
